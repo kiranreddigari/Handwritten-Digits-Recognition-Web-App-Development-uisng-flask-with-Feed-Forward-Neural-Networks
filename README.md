@@ -6,7 +6,7 @@ https://github.com/jeffheaton/t81_558_deep_learning/blob/master/install/tensorfl
 
 For installing Keras refer below link and install it in virtual environment of tensorflow as it is said in above link https://anaconda.org/conda-forge/keras
 
-we are creating web app for handwritten digits using Flask:
+we are creating web app for handwritten digits from 0 to 9 using Flask:
 --In static folder it has javascript and css files.
 --In Template folder it has html files,i stored in separate template folder it will be easy to access from flask framework.
 
