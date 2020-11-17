@@ -16,4 +16,4 @@ step1:run FFNN for MNIST.ipynb it saves weights
 
 step2:then run app.py file from command prompt ie., python app.py
 
---a url appears when you run it,take that url and copy it in any web browser
+  --a url appears when you run it,take that url and copy it in any web browser
